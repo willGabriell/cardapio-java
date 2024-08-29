@@ -1,4 +1,4 @@
-package com.example.cardapio.entity;
+package com.example.cardapio.model;
 
 import com.example.cardapio.dto.FoodRequestDTO;
 import jakarta.persistence.*;

@@ -2,7 +2,7 @@ package com.example.cardapio.controller;
 
 import com.example.cardapio.dto.FoodRequestDTO;
 import com.example.cardapio.dto.FoodResponseDTO;
-import com.example.cardapio.entity.Food;
+import com.example.cardapio.model.Food;
 import com.example.cardapio.repository.FoodRespository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
